@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm specific files
+.idea/
+
+# VS Code specific files
+.vscode/
+
+# MacOS Finder metadata
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# Exclude the downloaded data folder
+data/
