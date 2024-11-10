@@ -66,7 +66,3 @@ The model successfully learned to classify images of cats and dogs with a test e
 ## Licensing
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to make any adjustments or if there's anything else you'd like to include!
